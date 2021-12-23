@@ -2,6 +2,6 @@
 set -e
 
 pub upgrade packages
-dartanalyzer lib
-pub run test test
-dartfmt --set-exit-if-changed -w lib test
+dart analyze lib
+dart test
+dart format --set-exit-if-changed lib test

@@ -3,7 +3,7 @@ A [pre-commit](http://pre-commit.com/) hook which ensures any Dart code follows 
 ```
 repos:
 - repo: https://github.com/peiffer-innovations/dart-precommit-hook
-  rev: v1.0.1
+  rev: v1.0.2
   hooks:
     - id: dart-precommit
 ```
