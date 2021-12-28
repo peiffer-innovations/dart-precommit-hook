@@ -1,3 +1,8 @@
+## [1.0.3] - December 28th, 2021
+
+* Replace `pub` with `dart pub`
+
+
 ## [1.0.2] - December 23rd, 2021
 
 * Replace `dartfmt` with `dart format`
